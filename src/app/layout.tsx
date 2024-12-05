@@ -16,7 +16,7 @@ const font = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-  title: 'Funfy-forum',
+  title: 'Forum',
   description:
     'Funfy Forum is your go-to online community for lively discussions on various topics.',
 };
